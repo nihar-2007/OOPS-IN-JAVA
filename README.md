@@ -1,2 +1,9 @@
 # OOPS-IN-JAVA
-OOPS in Java Class Work
+OOPS in Java <b><i>Class Work</i></b>.
+<br>
+This repository is only for <b><i>LAB purposes</i></b> only.
+<br>
+It's only for the <b>practice</b> & enhance the knowledge.
+<br>
+<br>
+Created by: <i>Nihar Ranjan Sahu</i>
